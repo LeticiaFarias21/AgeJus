@@ -1,3 +1,8 @@
+Faça o setup local do seu openClaw com seu modelo escolhido, configure um bot do telegram e passe os arquivos md para o modelo gerar a arquitetura
+
+
+
+
 # ⚖️ Sistema Multiagente — Processo Judicial Brasileiro (1ª Instância)
 
 > Simulação automatizada do fluxo processual civil e penal brasileiro por meio de agentes especializados, orquestrados via framework **OpenCLAWN**.
